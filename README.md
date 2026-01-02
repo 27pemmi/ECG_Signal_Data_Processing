@@ -3,9 +3,9 @@ This independent project analyzes authentic ECG (electrocardiogram) data to comp
 
 = Databases (Physionet):
   - Resting ECG Data: MIT-BIH Normal Sinus Rhythm Database (record 16265)
-    https://physionet.org/content/nsrdb/1.0.0/ 
+    	https://physionet.org/content/nsrdb/1.0.0/ 
   - Exercise ECG Data: MIT-BIH ST Change Database (record 323)
-  	https://physionet.org/content/stdb/1.0.0/ 
+  		https://physionet.org/content/stdb/1.0.0/ 
 
 = Applied ideas:
   - Bandpass filtering (5-15 Hz)
