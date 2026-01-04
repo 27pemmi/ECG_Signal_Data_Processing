@@ -1,5 +1,5 @@
 == ECG Signal Data Processing: Resting vs Exercising 
-This independent project analyzes authentic ECG (electrocardiogram) data to compare heart activity during rest to heart activity during exercise using biomedical signal processing ideas.
+  - This independent project analyzes authentic ECG (electrocardiogram) data to compare heart activity during rest to heart activity during exercise using biomedical signal processing ideas.
 
 = Databases (Physionet):
   - Resting ECG Data: MIT-BIH Normal Sinus Rhythm Database (record 16265)
