@@ -13,7 +13,7 @@ This independent project analyzes authentic ECG (electrocardiogram) data to comp
   - Use of WFDB for QRS detection
   	  The WFDB (Waveform Database) is a well-known tool able to detect QRS peaks in real-world ECGs. 
   - Positive and negative R-peak localization
-  	  R-peaks (the top of the heartbeat) can be recorded as spiking up (positive) or as spiking down (negative). My R-peak localization can detect a peak in either direction based on       magnitude.
+  	  R-peaks (the top of the heartbeat) can be recorded as spiking up (positive) or as spiking down (negative). R-peak localization can detect a peak in either direction based on       magnitude.
   - Heart rate + variability calculated with SDNN
   	  The heart rate is calculated through RR peaks (time between R-peaks). The variability of the heart rates is calculated using SDNN (Standard Deviation of Normal-Normal                 intervals), which I use to show how much the heart rates vary over time. 
 	
