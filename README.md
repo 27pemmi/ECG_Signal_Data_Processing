@@ -31,4 +31,4 @@
 
 == MINI PAPER
 	- Short paper explaining methods/applications: 
-	- [ECG DATA ANALYSIS PAPER](https://github.com/27pemmi/ECG_Signal_Data_Processing/blob/main/ECG_Signal_Data_Processing_Analysis.pdf))
+	- [ECG DATA ANALYSIS PAPER](https://github.com/27pemmi/ECG_Signal_Data_Processing/blob/main/ECG_Signal_Data_Processing_Analysis.pdf)
